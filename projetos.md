@@ -4,8 +4,8 @@
 > O link para o Projeto 2 deve ser indicado da seguinte forma: Nome Completo | [Projeto 1](link projeto 1) | [Projeto 2](link projeto 2)
 
 1. Julia Coelho da Silva [Projeto 1](https://juccoelhos.wordpress.com/2023/04/25/violencia-contra-a-mulher/) | [Projeto 2](https://juccoelhos.wordpress.com/2023/05/24/analise-dos-dados-netflix/) | [Projeto 3](https://juccoelhos.wordpress.com/2023/07/20/regressao-logistica-multinomial-uma-metodologia-de-classificacao/)
-2. Christian do Espirito Santo [Projeto 1](https://christian21es.wordpress.com/2023/04/28/producao-de-cafe-no-espirito-santo/) | [Projeto 2](https://christian21es.wordpress.com/2023/05/25/condicao-das-escolas-brasileiras/)| [Projeto 3](https://christian21es.wordpress.com/estudos-para-previsao-de-transacoes-fraudulentas-do-cartao-de-credito/)
-3. João Paulo de Paiva Holz [Projeto 1](https://johnholz.github.io/) | [Projeto 2](https://johnholz.github.io/fonte/2020/05/27/EDA-Projeto-2.html)
+2. Christian do Espirito Santo [Projeto 1](https://christian21es.wordpress.com/2023/04/28/producao-de-cafe-no-espirito-santo/) | [Projeto 2](https://christian21es.wordpress.com/2023/05/25/condicao-das-escolas-brasileiras/)| [Projeto 3](https://christian21es.wordpress.com/estudo-para-previsao-de-transacoes-fraudulentas-do-cartao-de-credito/)
+3. João Paulo de Paiva Holz [Projeto 1](https://johnholz.github.io/) | [Projeto 2](https://johnholz.github.io/fonte/2020/05/27/EDA-Projeto-2.html)| [Projeto 3](https://johnholz.github.io/)
 4. José Carlos Soares Junior [Projeto 1](https://www.josecarlosinfo.com/projects/myanimelist/) | [Projeto 2](https://www.josecarlosinfo.com/projects/netflix/) | [Projeto 3](https://www.josecarlosinfo.com/projects/asteroids/)
 5. Iago Maure Vale [Projeto 1](https://iagos-portoflio.webnode.page/analise-de-dados/) | [Projeto 2](https://iagos-portoflio.webnode.page/netflix/) | [Projeto 3](https://iagos-portoflio.webnode.page/fraude/)
 6. Paulo Renato [Projeto 1](https://paulolaeber.github.io/projeto-1.html) | [Projeto 2](https://paulolaeber.github.io/projeto-2.html) | [Projeto 3](https://paulolaeber.github.io/cafe.html)
